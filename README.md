@@ -1,0 +1,10 @@
+<!-- <p align="center">
+  <img src="" width="100%" />
+</p> -->
+
+<p align="center">
+  <a href="https://topics-series-mathematics.github.io/MIT-18.650--Statistics-For-Applications?utm_source=MIT-18.650--Statistics-For-Applications&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-04T22:31:32.882547Z" width="100%" alt="Access the course website" />
+  </a>
+</p>
+
